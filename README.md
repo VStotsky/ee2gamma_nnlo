@@ -1,5 +1,7 @@
 This repository contains data for the NNLO calculation of $e^{+}e^{-}\to2\gamma$
-process:
+process. For more information, see https://arxiv.org/abs/2410.03336.
+
+The repository hold the following files:
 
 - `ggs.m` contains the definitions of LiteRed bases.
 - `MIs.m` contains the definitions of master integrals in terms of integrand in the momentum space. Note that there are 4 master integrals with irreducible numerators.
